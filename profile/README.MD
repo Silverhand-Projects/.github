@@ -54,8 +54,9 @@ Os projetos públicos da organização estão abertos a sugestões e melhorias. 
 
 Para solicitar orçamentos ou conhecer melhor nosso trabalho:
 
-- **E-mail:** [contato@silverhand.com]
+- **E-mail:** [silverhand.contato@gmail.com]
 - **Site:** [https://www.silverhand.com]
+- **Number:** [94 8413-6845]
 - **LinkedIn:** [link da página]
 
 ---
