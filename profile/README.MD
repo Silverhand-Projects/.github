@@ -28,16 +28,20 @@ Entregar soluções confiáveis e alinhadas às necessidades de cada cliente, co
 
 | Área | Descrição |
 | --- | --- |
-| [Área 1] | [Breve descrição do serviço] |
-| [Área 2] | [Breve descrição do serviço] |
-| [Área 3] | [Breve descrição do serviço] |
+## Áreas de atuação
+
+| Área | Descrição |
+| --- | --- |
+| Desenvolvimento Web | Criação de sites, portfólios, landing pages e aplicações web responsivas, com foco em desempenho, usabilidade e identidade visual. |
+| Desenvolvimento de Sistemas | Desenvolvimento de sistemas personalizados, dashboards, plataformas de gerenciamento e automação de processos para atender às necessidades de cada negócio. |
+| Tecnologia e Infraestrutura | Suporte técnico, configuração de redes, manutenção de sistemas e auxílio na infraestrutura tecnológica de empresas e profissionais. |
 
 ## Projetos em destaque
 
 | Repositório | Descrição |
 | --- | --- |
-| [`nome-do-repositorio`](https://github.com/silverhand/nome-do-repositorio) | [Descrição resumida do projeto] |
-| [`nome-do-repositorio`](https://github.com/silverhand/nome-do-repositorio) | [Descrição resumida do projeto] |
+| [`Portifolio-Psicologa-Olga`](https://github.com/Silverhand-Projects/portifolio-psicologa-olga) | [Portifolio profissional feito para uma neuropsicologa] |
+
 
 ## Como trabalhamos
 
@@ -55,7 +59,7 @@ Os projetos públicos da organização estão abertos a sugestões e melhorias. 
 Para solicitar orçamentos ou conhecer melhor nosso trabalho:
 
 - **E-mail:** [silverhand.contato@gmail.com]
-- **Site:** [https://www.silverhand.com]
+- **Site:** [https://silverhand-freelancer.vercel.app]
 - **Number:** [94 8413-6845]
 - **LinkedIn:** [link da página]
 
