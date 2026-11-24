@@ -40,7 +40,7 @@ Entregar soluções confiáveis e alinhadas às necessidades de cada cliente, co
 
 | Repositório | Descrição |
 | --- | --- |
-| [`Portifolio-Psicologa-Olga`](https://github.com/Silverhand-Projects/portifolio-psicologa-olga) | [Portifolio profissional feito para uma neuropsicologa] |
+| Portifolio-Psicologa-Olga (https://github.com/Silverhand-Projects/portifolio-psicologa-olga) | Portifolio profissional feito para uma neuropsicologa |
 
 
 ## Como trabalhamos
@@ -58,8 +58,8 @@ Os projetos públicos da organização estão abertos a sugestões e melhorias. 
 
 Para solicitar orçamentos ou conhecer melhor nosso trabalho:
 
-- **E-mail:** [silverhand.contato@gmail.com]
-- **Site:** [https://silverhand-freelancer.vercel.app]
+- **E-mail:** silverhand.contato@gmail.com
+- **Site:** https://silverhand-freelancer.vercel.app
 - **Number:** [94 8413-6845]
 - **LinkedIn:** [link da página]
 
