@@ -60,7 +60,7 @@ Para solicitar orçamentos ou conhecer melhor nosso trabalho:
 
 - **E-mail:** silverhand.contato@gmail.com
 - **Site:** https://silverhand-freelancer.vercel.app
-- **Number:** [94 8413-6845]
+- **Number:** 94 8413-6845
 - **LinkedIn:** [link da página]
 
 ---
