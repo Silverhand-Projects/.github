@@ -2,7 +2,7 @@
 
 # Silverhand
 
-**Soluções sob medida, entregues com qualidade e compromisso.**
+**Sites e sistemas web sob medida, feitos por quem conversa direto com você.**
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## Sobre nós
 
-A **Silverhand** é uma empresa de pequeno porte formada por profissionais freelancers, dedicada a oferecer serviços especializados com atendimento próximo, personalizado e foco em resultados. Atuamos de forma flexível, reunindo o profissional mais adequado a cada projeto para garantir eficiência, qualidade técnica e cumprimento de prazos.
+A **Silverhand** é uma dupla de desenvolvedores que cria sites, sistemas e soluções web com atendimento próximo e personalizado. Por sermos uma equipe enxuta, você fala diretamente com quem desenvolve, sem intermediários, com comunicação clara e foco em prazo e qualidade.
 
 ## Missão
 
@@ -21,27 +21,26 @@ Entregar soluções confiáveis e alinhadas às necessidades de cada cliente, co
 - **Qualidade:** atenção aos detalhes em cada entrega.
 - **Transparência:** comunicação clara em todas as etapas do projeto.
 - **Compromisso:** respeito aos prazos e aos acordos firmados.
-- **Flexibilidade:** adaptação ao contexto e à escala de cada demanda.
+- **Proximidade:** contato direto com quem desenvolve o seu projeto.
 - **Profissionalismo:** ética e seriedade na condução dos trabalhos.
 
 ## Áreas de atuação
 
 | Área | Descrição |
 | --- | --- |
-## Áreas de atuação
-
-| Área | Descrição |
-| --- | --- |
 | Desenvolvimento Web | Criação de sites, portfólios, landing pages e aplicações web responsivas, com foco em desempenho, usabilidade e identidade visual. |
-| Desenvolvimento de Sistemas | Desenvolvimento de sistemas personalizados, dashboards, plataformas de gerenciamento e automação de processos para atender às necessidades de cada negócio. |
+| Desenvolvimento de Sistemas | Sistemas personalizados, dashboards, plataformas de gerenciamento e automação de processos para atender às necessidades de cada negócio. |
 | Tecnologia e Infraestrutura | Suporte técnico, configuração de redes, manutenção de sistemas e auxílio na infraestrutura tecnológica de empresas e profissionais. |
+
+## Tecnologias
+
+HTML · CSS · JavaScript · React · PHP · Laravel · MySQL
 
 ## Projetos em destaque
 
-| Repositório | Descrição |
+| Projeto | Descrição |
 | --- | --- |
-| Portifolio-Psicologa-Olga (https://github.com/Silverhand-Projects/portifolio-psicologa-olga) | Portifolio profissional feito para uma neuropsicologa |
-
+| [Portfólio Psicóloga Olga](https://github.com/Silverhand-Projects/portifolio-psicologa-olga) | Portfólio profissional desenvolvido para uma neuropsicóloga. |
 
 ## Como trabalhamos
 
@@ -50,18 +49,13 @@ Entregar soluções confiáveis e alinhadas às necessidades de cada cliente, co
 3. **Execução:** desenvolvimento com acompanhamento e comunicação contínuos.
 4. **Entrega e suporte:** validação final e acompanhamento pós-entrega.
 
-## Contribuições
-
-Os projetos públicos da organização estão abertos a sugestões e melhorias. Para contribuir, abra uma *issue* descrevendo a proposta ou envie um *pull request* seguindo as orientações do repositório correspondente.
-
 ## Contato
 
 Para solicitar orçamentos ou conhecer melhor nosso trabalho:
 
 - **E-mail:** silverhand.contato@gmail.com
 - **Site:** https://silverhand-freelancer.vercel.app
-- **Number:** 94 8413-6845
-- **LinkedIn:** [link da página]
+- **WhatsApp:** (94) 8413-6845
 
 ---
 
